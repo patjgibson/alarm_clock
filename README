@@ -1,0 +1,8 @@
+Hello there.
+
+For Verilog project files, I found it easier to only share script files rather than the entire project file as the builds take forever
+to transfer. As a result, I decided to only every save the .v files, which could easily be imported to a project. This was to save time
+as there was no guarantee that a computer would be available in any given laboratory on campus meaning I would not have access to a
+previous project I was working on.
+
+All files included are source files, with the exception of Nexus4DDR_Master, which is a constraint file.
